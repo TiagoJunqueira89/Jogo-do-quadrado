@@ -5,7 +5,7 @@ Pequeno jogo em Java desenvolvido por mim.
 ## Prints do Jogo
 
 Ecrã do jogo:  
-![Ecrã do Jogo](./imagens/jogo do quadrado.png)
+![Ecrã do Jogo](./imagens/jogo_do_quadrado.png)
 
 ## Como correr o projeto
 
